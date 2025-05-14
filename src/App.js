@@ -1,8 +1,12 @@
+import logo from './favicon.ico';
+
 function App() {
     return (
         <div className="App">
-            <h1>Plan treningowy</h1>
-            <p>Witaj na mojej stronie z planem treningowym gdzie mo¿esz œledziæ postêpy w swoich treningach!</p>
+            <header className="App-header">
+                <img src={logo} className="App-logo" alt="Logo" />
+                <h1>Plan treningowy</h1>
+            </header>
         </div>
     );
 }
