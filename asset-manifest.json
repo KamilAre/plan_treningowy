@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/plan_treningowy/static/css/main.e6c13ad2.css",
-    "main.js": "/plan_treningowy/static/js/main.db341f0d.js",
+    "main.js": "/plan_treningowy/static/js/main.03463059.js",
     "static/js/453.00d0ab4f.chunk.js": "/plan_treningowy/static/js/453.00d0ab4f.chunk.js",
-    "static/media/logo.png": "/plan_treningowy/static/media/logo.f270e43b1c40ceca12f6.png",
     "index.html": "/plan_treningowy/index.html",
     "main.e6c13ad2.css.map": "/plan_treningowy/static/css/main.e6c13ad2.css.map",
-    "main.db341f0d.js.map": "/plan_treningowy/static/js/main.db341f0d.js.map",
+    "main.03463059.js.map": "/plan_treningowy/static/js/main.03463059.js.map",
     "453.00d0ab4f.chunk.js.map": "/plan_treningowy/static/js/453.00d0ab4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.db341f0d.js"
+    "static/js/main.03463059.js"
   ]
 }
